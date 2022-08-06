@@ -1,0 +1,68 @@
+{
+    "name": "net-pack",
+    "displayName": ".NET Pack",
+    "author": "Fadi Hania - Coddict.co",
+    "publisher": "Coddict.co",
+    "homepage": "https://coddict.co",
+    "description": "Useful and required .NET development extensions",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "ms-dotnettools.csharp",
+        "reflectiondm.classynaming",
+        "ms-dotnettools.blazorwasm-companion",
+        "tintoy.msbuild-project-tools",
+        "josefpihrt-vscode.roslynator",
+        "formulahendry.dotnet-test-explorer",
+        "Fudge.auto-using",
+        "adrianwilczynski.namespace",
+        "k--kato.docomment",
+        "jesschadwick.nuget-reverse-package-search",
+        "fullstackspider.visual-nuget",
+        "rahulsahay.Csharp-ASPNETCore",
+        "schneiderpat.aspnet-helper",
+        "LennartKleymann.razor-switcher",
+        "logerfo.sln-support",
+        "fernandoescolar.vscode-solution-explorer",
+        "jorgeserrano.vscode-csharp-snippets",
+        "adrianwilczynski.libman",
+        "ms-dotnettools.vscode-dotnet-runtime",
+        "adrianwilczynski.add-reference",
+
+        "GitHub.copilot",
+        "devine-davies.make-hidden",
+        "aaron-bond.better-comments",
+        "jenkey2011.string-highlight",
+        "maptz.camelcasenavigation",
+        "wmaurer.change-case",
+        "ms-azuretools.vscode-docker",
+        "mrmlnc.vscode-duplicate",
+        "mhutchie.git-graph",
+        "eamodio.gitlens",
+        "ardisaurus.gitflow-actions-sidebar",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "christian-kohler.path-intellisense",
+        "humao.rest-client",
+        "streetsidesoftware.code-spell-checker",
+        "EditorConfig.EditorConfig",
+        "ybaumes.highlight-trailing-white-spaces",
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "formulahendry.auto-rename-tag",
+        "esbenp.prettier-vscode",
+        "quicktype.quicktype",
+
+        "Zignd.html-css-class-completion",
+        "PWABuilder.pwa-studio"
+    ],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fadihania/net-pack"
+    }
+}
