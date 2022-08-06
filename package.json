@@ -1,11 +1,12 @@
 {
-    "name": "net-pack",
-    "displayName": ".NET Pack",
+    "name": "net-vscode-pack",
+    "displayName": ".NET Core Pack",
     "author": "Fadi Hania - Coddict.co",
-    "publisher": "Coddict.co",
+    "icon": "logo/dotnetcore-pack.png",
+    "publisher": "coddictco",
     "homepage": "https://coddict.co",
     "description": "Useful and required .NET development extensions",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.68.0"
     },
