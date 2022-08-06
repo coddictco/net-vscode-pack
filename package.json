@@ -6,7 +6,7 @@
     "publisher": "coddictco",
     "homepage": "https://coddict.co",
     "description": "Useful and required .NET development extensions",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -39,6 +39,7 @@
         "devine-davies.make-hidden",
         "aaron-bond.better-comments",
         "jenkey2011.string-highlight",
+        "SanaAjani.taskrunnercode",
         "maptz.camelcasenavigation",
         "wmaurer.change-case",
         "ms-azuretools.vscode-docker",
@@ -57,6 +58,7 @@
         "formulahendry.auto-rename-tag",
         "esbenp.prettier-vscode",
         "quicktype.quicktype",
+        "Gruntfuggly.todo-tree",
 
         "Zignd.html-css-class-completion",
         "PWABuilder.pwa-studio"
