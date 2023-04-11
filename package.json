@@ -35,7 +35,6 @@
         "ms-dotnettools.vscode-dotnet-runtime",
         "adrianwilczynski.add-reference",
 
-        "GitHub.copilot",
         "devine-davies.make-hidden",
         "aaron-bond.better-comments",
         "jenkey2011.string-highlight",
@@ -66,6 +65,6 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/fadihania/net-pack"
+        "url": "https://github.com/fadihania/net-vscode-pack"
     }
 }
