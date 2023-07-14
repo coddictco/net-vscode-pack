@@ -6,7 +6,7 @@
     "publisher": "coddictco",
     "homepage": "https://coddict.co",
     "description": "Useful and required .NET development extensions",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -15,6 +15,7 @@
     ],
     "extensionPack": [
         "adrianwilczynski.add-reference",
+        "adrianwilczynski.asp-net-core-switcher",
         "adrianwilczynski.libman",
         "adrianwilczynski.namespace",
         "coddictco.productivity-plus",
@@ -26,16 +27,17 @@
         "jorgeserrano.vscode-csharp-snippets",
         "josefpihrt-vscode.roslynator",
         "k--kato.docomment",
-        "LennartKleymann.razor-switcher",
         "logerfo.sln-support",
         "ms-dotnettools.blazorwasm-companion",
         "ms-dotnettools.csdevkit",
         "ms-dotnettools.csharp",
         "ms-dotnettools.vscode-dotnet-runtime",
+        "ms-dotnettools.vscodeintellicode-csharp",
         "ms-graph.kiota",
         "rahulsahay.Csharp-ASPNETCore",
         "reflectiondm.classynaming",
         "schneiderpat.aspnet-helper",
+        "SpeedConsoleLogBuiTruyen3.console-writeline",
         "tintoy.msbuild-project-tools"
     ],
     "license": "MIT",
